@@ -1,8 +1,0 @@
-E:\C#\QuanLyHocSinhApplication\QuanLyHocSinhApplication\bin\Debug\QuanLyHocSinhApplication.exe.config
-E:\C#\QuanLyHocSinhApplication\QuanLyHocSinhApplication\bin\Debug\QuanLyHocSinhApplication.exe
-E:\C#\QuanLyHocSinhApplication\QuanLyHocSinhApplication\bin\Debug\QuanLyHocSinhApplication.pdb
-E:\C#\QuanLyHocSinhApplication\QuanLyHocSinhApplication\obj\Debug\QuanLyHocSinhApplication.csproj.AssemblyReference.cache
-E:\C#\QuanLyHocSinhApplication\QuanLyHocSinhApplication\obj\Debug\QuanLyHocSinhApplication.csproj.SuggestedBindingRedirects.cache
-E:\C#\QuanLyHocSinhApplication\QuanLyHocSinhApplication\obj\Debug\QuanLyHocSinhApplication.csproj.CoreCompileInputs.cache
-E:\C#\QuanLyHocSinhApplication\QuanLyHocSinhApplication\obj\Debug\QuanLyHocSinhApplication.exe
-E:\C#\QuanLyHocSinhApplication\QuanLyHocSinhApplication\obj\Debug\QuanLyHocSinhApplication.pdb
